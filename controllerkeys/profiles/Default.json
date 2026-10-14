@@ -1,0 +1,713 @@
+{
+  "modifiedAt" : "2026-10-14T14:13:44Z",
+  "createdAt" : "2026-09-24T23:20:01Z",
+  "dpadPreset" : "arrows",
+  "id" : "F93DFF03-CC62-4933-A193-B4DC64230987",
+  "dpadPresetWasExplicitlySelected" : true,
+  "gestureMappings" : [
+
+  ],
+  "controllerPreviewLayout" : "dualSense",
+  "layers" : [
+
+  ],
+  "name" : "Default",
+  "sequenceMappings" : [
+
+  ],
+  "joystickSettings" : {
+    "gyroAimingSensitivity" : 0.3,
+    "appleTVRemoteCircularScrollSensitivity" : 0.5,
+    "leftStick" : {
+      "mouseAcceleration" : 0.5,
+      "mouseDeadzone" : 0,
+      "invertScrollX" : false,
+      "customDeadzone" : 0.22,
+      "mode" : "mouse",
+      "customVerticalSliceSize" : 0.75,
+      "scrollAcceleration" : 0.5,
+      "invertScrollY" : false,
+      "mouseSensitivity" : 0.449756408005618,
+      "scrollSensitivity" : 0.5,
+      "scrollDeadzone" : 0.15,
+      "invertMouseY" : false,
+      "customDirectionLayout" : "fourWay",
+      "customHorizontalSliceSize" : 0.75
+    },
+    "leftStickMode" : "mouse",
+    "rightStickCustomVerticalSliceSize" : 0.75,
+    "rightStickCustomDeadzone" : 0.22,
+    "focusModeHapticsEnabled" : true,
+    "touchpadInvertScrollX" : false,
+    "invertMouseY" : false,
+    "appleTVRemoteCircularScrollEnabled" : true,
+    "leftStickCustomVerticalSliceSize" : 0.75,
+    "scrollAcceleration" : 0.5,
+    "mouseSensitivity" : 0.449756408005618,
+    "appleTVRemoteCircularInputMode" : "scroll",
+    "touchpadInvertScrollY" : false,
+    "rightStickMode" : "scroll",
+    "analogPrecisionMinimumSpeed" : 0.15,
+    "analogPrecisionCurve" : 0.35,
+    "touchpadDeadzone" : 0,
+    "touchpadAcceleration" : 0.5,
+    "touchpadZoomToPanRatio" : 1.95,
+    "gestureSensitivity" : 0.5,
+    "gestureCooldown" : 0.5,
+    "leftStickCustomDeadzone" : 0.22,
+    "scrollDeadzone" : 0,
+    "focusModeSensitivity" : 0.1,
+    "gyroActivationMode" : "gyroButton",
+    "mouseDeadzone" : 0,
+    "requireActiveTouchForRegionClick" : true,
+    "scrollSensitivity" : 0.5,
+    "gyroAimingDeadzone" : 0.3,
+    "touchpadSmoothing" : 0,
+    "ouraMotion" : {
+      "sensitivity" : 0.0479656339031339,
+      "enabled" : false,
+      "adoptResetRing" : true,
+      "invertY" : false,
+      "targetStick" : "left",
+      "diagnosticsEnabled" : true,
+      "orientation" : "screenPlane",
+      "invertX" : false,
+      "motionOutputEnabled" : true,
+      "leftTiltBoost" : 1,
+      "smoothing" : 0.7516045616005551,
+      "deadzone" : 0.3505420470505618,
+      "horizontalBoost" : 1
+    },
+    "disableTouchpadAsMouse" : false,
+    "analogPrecisionTriggerMode" : "off",
+    "leftStickCustomHorizontalSliceSize" : 0.75,
+    "rightStickCustomHorizontalSliceSize" : 0.75,
+    "pointerLockMouseMode" : "auto",
+    "touchpadSensitivity" : 0.08643126755617977,
+    "invertScrollY" : false,
+    "touchpadPanSensitivity" : 0.5,
+    "focusModeModifier" : {
+      "control" : false,
+      "shift" : false,
+      "command" : true,
+      "option" : false
+    },
+    "scrollBoostMultiplier" : 4,
+    "touchpadUseNativeZoom" : true,
+    "gyroAimingEnabled" : false,
+    "mouseAcceleration" : 0.5,
+    "rightStick" : {
+      "mouseAcceleration" : 0.5,
+      "mouseDeadzone" : 0.15,
+      "invertScrollX" : false,
+      "customDeadzone" : 0.22,
+      "mode" : "scroll",
+      "customVerticalSliceSize" : 0.75,
+      "scrollAcceleration" : 0.5,
+      "invertScrollY" : false,
+      "mouseSensitivity" : 0.5,
+      "scrollSensitivity" : 0.5,
+      "scrollDeadzone" : 0,
+      "invertMouseY" : false,
+      "customDirectionLayout" : "fourWay",
+      "customHorizontalSliceSize" : 0.75
+    },
+    "analogPrecisionDeadzone" : 0.05
+  },
+  "isDefault" : true,
+  "linkedApps" : [
+
+  ],
+  "dualSenseLEDSettings" : {
+    "batteryLightBar" : true,
+    "lightBarBrightness" : "dim",
+    "lightBarEnabled" : true,
+    "lightBarColor" : {
+      "red" : 0,
+      "green" : 0.4,
+      "blue" : 1
+    },
+    "muteButtonLED" : "off",
+    "playerLEDs" : {
+      "led4" : false,
+      "led2" : false,
+      "led3" : false,
+      "led5" : false,
+      "led1" : false
+    }
+  },
+  "appLayerBindings" : {
+
+  },
+  "linkedControllers" : [
+
+  ],
+  "touchpadInputMode" : "wholePad",
+  "inputLatencyMode" : "realtime",
+  "buttonMappings" : {
+    "y" : {
+      "isHoldModifier" : false,
+      "holdRepeatEnabled" : false,
+      "keyCode" : 53,
+      "holdRepeatInterval" : 0.033,
+      "modifiers" : {
+        "control" : false,
+        "command" : false,
+        "shift" : false,
+        "option" : false
+      }
+    },
+    "dpadLeft" : {
+      "isHoldModifier" : false,
+      "holdRepeatEnabled" : false,
+      "keyCode" : 123,
+      "repeatMapping" : {
+        "enabled" : false,
+        "interval" : 0.05
+      },
+      "modifiers" : {
+        "control" : false,
+        "command" : false,
+        "shift" : false,
+        "option" : false
+      },
+      "holdRepeatInterval" : 0.033
+    },
+    "view" : {
+      "isHoldModifier" : false,
+      "holdRepeatEnabled" : false,
+      "keyCode" : 8,
+      "doubleTapMapping" : {
+        "modifiers" : {
+          "shift" : false,
+          "command" : true,
+          "option" : false,
+          "control" : false
+        },
+        "keyCode" : 0,
+        "threshold" : 0.4
+      },
+      "modifiers" : {
+        "control" : false,
+        "command" : true,
+        "shift" : false,
+        "option" : false
+      },
+      "holdRepeatInterval" : 0.033
+    },
+    "ouraTripleTap" : {
+      "isHoldModifier" : false,
+      "hint" : "Toggle Ring Mouse",
+      "holdRepeatEnabled" : false,
+      "holdRepeatInterval" : 0.033,
+      "modifiers" : {
+        "control" : false,
+        "command" : false,
+        "shift" : false,
+        "option" : false
+      },
+      "systemCommand" : {
+        "type" : "toggleOuraMotion"
+      }
+    },
+    "dpadRight" : {
+      "isHoldModifier" : false,
+      "holdRepeatEnabled" : false,
+      "keyCode" : 124,
+      "repeatMapping" : {
+        "enabled" : false,
+        "interval" : 0.05
+      },
+      "modifiers" : {
+        "control" : false,
+        "command" : false,
+        "shift" : false,
+        "option" : false
+      },
+      "holdRepeatInterval" : 0.033
+    },
+    "rightTrigger" : {
+      "isHoldModifier" : true,
+      "holdRepeatEnabled" : false,
+      "holdRepeatInterval" : 0.033,
+      "modifiers" : {
+        "control" : false,
+        "command" : true,
+        "shift" : false,
+        "option" : false
+      }
+    },
+    "menu" : {
+      "modifiers" : {
+        "control" : false,
+        "command" : true,
+        "shift" : false,
+        "option" : false
+      },
+      "longHoldMapping" : {
+        "modifiers" : {
+          "shift" : false,
+          "command" : true,
+          "option" : false,
+          "control" : false
+        },
+        "keyCode" : 37,
+        "threshold" : 0.2
+      },
+      "keyCode" : 9,
+      "isHoldModifier" : false,
+      "holdRepeatInterval" : 0.033,
+      "holdRepeatEnabled" : false,
+      "doubleTapMapping" : {
+        "modifiers" : {
+          "shift" : true,
+          "command" : true,
+          "option" : false,
+          "control" : false
+        },
+        "keyCode" : 9,
+        "threshold" : 0.4
+      }
+    },
+    "xbox" : {
+      "isHoldModifier" : false,
+      "holdRepeatEnabled" : false,
+      "keyCode" : 49,
+      "holdRepeatInterval" : 0.033,
+      "modifiers" : {
+        "control" : false,
+        "command" : false,
+        "shift" : false,
+        "option" : false
+      }
+    },
+    "leftThumbstick" : {
+      "longHoldMapping" : {
+        "modifiers" : {
+          "shift" : false,
+          "command" : true,
+          "option" : false,
+          "control" : false
+        },
+        "keyCode" : 48,
+        "threshold" : 0.5
+      },
+      "isHoldModifier" : false,
+      "holdRepeatEnabled" : false,
+      "keyCode" : 0,
+      "holdRepeatInterval" : 0.033,
+      "modifiers" : {
+        "control" : false,
+        "command" : false,
+        "shift" : false,
+        "option" : true
+      }
+    },
+    "dpadUp" : {
+      "isHoldModifier" : false,
+      "holdRepeatEnabled" : false,
+      "keyCode" : 126,
+      "repeatMapping" : {
+        "enabled" : false,
+        "interval" : 0.05
+      },
+      "modifiers" : {
+        "control" : false,
+        "command" : false,
+        "shift" : false,
+        "option" : false
+      },
+      "holdRepeatInterval" : 0.033
+    },
+    "rightBumper" : {
+      "isHoldModifier" : true,
+      "holdRepeatEnabled" : false,
+      "holdRepeatInterval" : 0.033,
+      "modifiers" : {
+        "control" : true,
+        "command" : false,
+        "shift" : false,
+        "option" : false
+      }
+    },
+    "touchpadTwoFingerButton" : {
+      "isHoldModifier" : true,
+      "holdRepeatEnabled" : false,
+      "keyCode" : 61441,
+      "holdRepeatInterval" : 0.033,
+      "modifiers" : {
+        "control" : false,
+        "command" : false,
+        "shift" : false,
+        "option" : false
+      }
+    },
+    "rightThumbstick" : {
+      "isHoldModifier" : false,
+      "holdRepeatEnabled" : false,
+      "keyCode" : 8,
+      "doubleTapMapping" : {
+        "modifiers" : {
+          "shift" : false,
+          "command" : true,
+          "option" : false,
+          "control" : false
+        },
+        "keyCode" : 13,
+        "threshold" : 0.4
+      },
+      "modifiers" : {
+        "control" : true,
+        "command" : false,
+        "shift" : false,
+        "option" : false
+      },
+      "holdRepeatInterval" : 0.033
+    },
+    "dpadDown" : {
+      "isHoldModifier" : false,
+      "holdRepeatEnabled" : false,
+      "keyCode" : 125,
+      "repeatMapping" : {
+        "enabled" : false,
+        "interval" : 0.05
+      },
+      "modifiers" : {
+        "control" : false,
+        "command" : false,
+        "shift" : false,
+        "option" : false
+      },
+      "holdRepeatInterval" : 0.033
+    },
+    "share" : {
+      "isHoldModifier" : true,
+      "holdRepeatEnabled" : false,
+      "holdRepeatInterval" : 0.033,
+      "modifiers" : {
+        "control" : false,
+        "command" : true,
+        "shift" : false,
+        "option" : true
+      }
+    },
+    "touchpadButton" : {
+      "isHoldModifier" : true,
+      "holdRepeatEnabled" : false,
+      "keyCode" : 61440,
+      "holdRepeatInterval" : 0.033,
+      "modifiers" : {
+        "control" : false,
+        "command" : false,
+        "shift" : false,
+        "option" : false
+      }
+    },
+    "ouraTap" : {
+      "isHoldModifier" : true,
+      "holdRepeatEnabled" : false,
+      "keyCode" : 61440,
+      "holdRepeatInterval" : 0.033,
+      "modifiers" : {
+        "control" : false,
+        "command" : false,
+        "shift" : false,
+        "option" : false
+      }
+    },
+    "a" : {
+      "isHoldModifier" : true,
+      "holdRepeatEnabled" : false,
+      "keyCode" : 61440,
+      "holdRepeatInterval" : 0.033,
+      "modifiers" : {
+        "control" : false,
+        "command" : false,
+        "shift" : false,
+        "option" : false
+      }
+    },
+    "leftBumper" : {
+      "isHoldModifier" : true,
+      "holdRepeatEnabled" : false,
+      "holdRepeatInterval" : 0.033,
+      "doubleTapMapping" : {
+        "modifiers" : {
+          "shift" : false,
+          "command" : true,
+          "option" : true,
+          "control" : true
+        },
+        "keyCode" : 47,
+        "threshold" : 0.4
+      },
+      "modifiers" : {
+        "control" : false,
+        "command" : false,
+        "shift" : false,
+        "option" : true
+      }
+    },
+    "ouraDoubleTap" : {
+      "isHoldModifier" : false,
+      "hint" : "Center Ring",
+      "holdRepeatEnabled" : false,
+      "holdRepeatInterval" : 0.033,
+      "modifiers" : {
+        "control" : false,
+        "command" : false,
+        "shift" : false,
+        "option" : false
+      },
+      "systemCommand" : {
+        "type" : "centerOuraRing"
+      }
+    },
+    "x" : {
+      "isHoldModifier" : false,
+      "holdRepeatEnabled" : false,
+      "keyCode" : 51,
+      "repeatMapping" : {
+        "enabled" : true,
+        "interval" : 0.05
+      },
+      "modifiers" : {
+        "control" : false,
+        "command" : false,
+        "shift" : false,
+        "option" : false
+      },
+      "holdRepeatInterval" : 0.033
+    },
+    "touchpadTap" : {
+      "isHoldModifier" : true,
+      "holdRepeatEnabled" : false,
+      "keyCode" : 61440,
+      "holdRepeatInterval" : 0.033,
+      "modifiers" : {
+        "control" : false,
+        "command" : false,
+        "shift" : false,
+        "option" : false
+      }
+    },
+    "b" : {
+      "longHoldMapping" : {
+        "modifiers" : {
+          "shift" : false,
+          "command" : true,
+          "option" : false,
+          "control" : false
+        },
+        "keyCode" : 36,
+        "threshold" : 0.5
+      },
+      "isHoldModifier" : false,
+      "holdRepeatEnabled" : false,
+      "keyCode" : 36,
+      "holdRepeatInterval" : 0.033,
+      "modifiers" : {
+        "control" : false,
+        "command" : false,
+        "shift" : false,
+        "option" : false
+      }
+    },
+    "rightTouchpadTap" : {
+      "isHoldModifier" : true,
+      "holdRepeatEnabled" : false,
+      "keyCode" : 61440,
+      "holdRepeatInterval" : 0.033,
+      "modifiers" : {
+        "control" : false,
+        "command" : false,
+        "shift" : false,
+        "option" : false
+      }
+    },
+    "touchpadTwoFingerTap" : {
+      "isHoldModifier" : true,
+      "holdRepeatEnabled" : false,
+      "keyCode" : 61441,
+      "holdRepeatInterval" : 0.033,
+      "modifiers" : {
+        "control" : false,
+        "command" : false,
+        "shift" : false,
+        "option" : false
+      }
+    },
+    "leftTrigger" : {
+      "isHoldModifier" : false,
+      "holdRepeatEnabled" : false,
+      "keyCode" : 48,
+      "holdRepeatInterval" : 0.033,
+      "modifiers" : {
+        "control" : false,
+        "command" : false,
+        "shift" : false,
+        "option" : false
+      }
+    },
+    "rightTouchpadButton" : {
+      "isHoldModifier" : true,
+      "holdRepeatEnabled" : false,
+      "keyCode" : 61440,
+      "holdRepeatInterval" : 0.033,
+      "modifiers" : {
+        "control" : false,
+        "command" : false,
+        "shift" : false,
+        "option" : false
+      }
+    }
+  },
+  "touchpadRegionMappings" : [
+
+  ],
+  "commandWheelActions" : [
+
+  ],
+  "onScreenKeyboardSettings" : {
+    "swipeTypingPredictionCount" : 5,
+    "showExtendedFunctionKeys" : false,
+    "toggleShortcutModifiers" : {
+      "control" : false,
+      "command" : false,
+      "shift" : false,
+      "option" : false
+    },
+    "activateAllWindows" : true,
+    "swipeTypingEnabled" : false,
+    "quickTexts" : [
+
+    ],
+    "defaultTerminalApp" : "Terminal",
+    "wheelAlternateModifiers" : {
+      "control" : false,
+      "shift" : false,
+      "command" : false,
+      "option" : false
+    },
+    "typingDelay" : 0.03,
+    "wheelShowsWebsites" : false,
+    "appBarItems" : [
+
+    ],
+    "websiteLinks" : [
+
+    ],
+    "swipeTypingSensitivity" : 0.5
+  },
+  "macros" : [
+
+  ],
+  "chordMappings" : [
+    {
+      "id" : "18B3087E-263A-4BD8-A4D7-18B8EF3C44AA",
+      "keyCode" : 51,
+      "buttons" : [
+        "rightBumper",
+        "x"
+      ],
+      "modifiers" : {
+        "control" : false,
+        "command" : true,
+        "shift" : false,
+        "option" : false
+      }
+    },
+    {
+      "id" : "DBC0EACD-9078-4FA7-BC47-0C8C077BC507",
+      "keyCode" : 27,
+      "buttons" : [
+        "leftBumper",
+        "view"
+      ],
+      "modifiers" : {
+        "control" : false,
+        "command" : true,
+        "shift" : false,
+        "option" : false
+      }
+    },
+    {
+      "id" : "63DE1876-A334-4370-91EF-0B9B8E549133",
+      "keyCode" : 24,
+      "buttons" : [
+        "rightBumper",
+        "view"
+      ],
+      "modifiers" : {
+        "control" : false,
+        "command" : true,
+        "shift" : false,
+        "option" : false
+      }
+    },
+    {
+      "id" : "D075DE63-DA85-42B5-BEEF-A987940602F4",
+      "keyCode" : 24,
+      "buttons" : [
+        "menu",
+        "rightBumper"
+      ],
+      "modifiers" : {
+        "control" : false,
+        "command" : true,
+        "shift" : false,
+        "option" : false
+      }
+    },
+    {
+      "id" : "31E7EFAD-AF3C-4895-83D4-60ED73F9D733",
+      "keyCode" : 14,
+      "buttons" : [
+        "dpadRight",
+        "rightBumper"
+      ],
+      "modifiers" : {
+        "control" : true,
+        "command" : false,
+        "shift" : false,
+        "option" : false
+      }
+    },
+    {
+      "id" : "43547B86-CD79-468E-B43D-5595465FDC0F",
+      "keyCode" : 0,
+      "buttons" : [
+        "dpadLeft",
+        "rightBumper"
+      ],
+      "modifiers" : {
+        "control" : true,
+        "command" : false,
+        "shift" : false,
+        "option" : false
+      }
+    },
+    {
+      "id" : "385378A0-A8BD-4786-8BD7-596845E7032E",
+      "hint" : "Center Mouse",
+      "buttons" : [
+        "menu",
+        "xbox"
+      ],
+      "modifiers" : {
+        "control" : false,
+        "command" : false,
+        "shift" : false,
+        "option" : false
+      },
+      "systemCommand" : {
+        "type" : "shellCommand",
+        "command" : "osascript -l JavaScript -e 'ObjC.import(\"CoreGraphics\"); var b=$.CGDisplayBounds($.CGMainDisplayID()); $.CGWarpMouseCursorPosition($.CGPointMake(b.origin.x + b.size.width \/ 2, b.origin.y + b.size.height \/ 2));'",
+        "inTerminal" : false
+      }
+    }
+  ],
+  "scripts" : [
+
+  ]
+}
