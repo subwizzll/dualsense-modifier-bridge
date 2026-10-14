@@ -2,9 +2,12 @@
 # Install DualSense (ControllerKeys) + Hammerspoon modifier bridge on this Mac.
 set -euo pipefail
 
-ROOT="$(cd "$(dirname "$0")" && pwd)"
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
 HS_SRC="$ROOT/hammerspoon/init.lua"
 HS_DST="${HOME}/.hammerspoon/init.lua"
+# Bundle ID is still KevinTang.XboxControllerMapper (legacy name for ControllerKeys).
+# This plist is UI/onboarding/telemetry only — button maps live in exported profile JSON.
 CK_PREFS_SRC="$ROOT/controllerkeys/preferences/KevinTang.XboxControllerMapper.plist"
 CK_PREFS_DST="${HOME}/Library/Preferences/KevinTang.XboxControllerMapper.plist"
 CK_PROFILES="$ROOT/controllerkeys/profiles"

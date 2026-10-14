@@ -7,18 +7,19 @@ Hammerspoon stamps ControllerKeys-held modifiers onto physical keyboard events.
 ## Layout
 
 ```text
-hammerspoon/init.lua              # modifier bridge
-controllerkeys/preferences/       # ControllerKeys UI prefs (not button maps)
-controllerkeys/profiles/*.json    # exported ControllerKeys profiles (required)
-install.sh                        # set up on a Mac
-export.sh                         # refresh repo from this Mac
+hammerspoon/init.lua                 # modifier bridge
+controllerkeys/preferences/          # ControllerKeys UI prefs (not button maps)
+  KevinTang.XboxControllerMapper.plist  # legacy bundle id; app is ControllerKeys
+controllerkeys/profiles/*.json       # exported ControllerKeys profiles (required)
+scripts/install.sh                   # set up on a Mac
+scripts/export.sh                    # refresh repo from this Mac
 ```
 
 ## First-time capture (this Mac)
 
 ```bash
 cd ~/MyApps/dualsense-modifier-bridge
-./export.sh
+./scripts/export.sh
 ```
 
 Export your DualSense profile from ControllerKeys into `controllerkeys/profiles/`, then commit.
@@ -31,7 +32,7 @@ Export your DualSense profile from ControllerKeys into `controllerkeys/profiles/
 4. Run:
 
 ```bash
-./install.sh
+./scripts/install.sh
 ```
 
 5. Grant **Accessibility** and **Input Monitoring** to both apps.

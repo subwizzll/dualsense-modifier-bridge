@@ -2,9 +2,11 @@
 # Pull live config from this Mac into the repo (run before copying to another machine).
 set -euo pipefail
 
-ROOT="$(cd "$(dirname "$0")" && pwd)"
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
 HS_SRC="${HOME}/.hammerspoon/init.lua"
 HS_DST="$ROOT/hammerspoon/init.lua"
+# Bundle ID is still KevinTang.XboxControllerMapper (legacy name for ControllerKeys).
 CK_PREFS_SRC="${HOME}/Library/Preferences/KevinTang.XboxControllerMapper.plist"
 CK_PREFS_DST="$ROOT/controllerkeys/preferences/KevinTang.XboxControllerMapper.plist"
 CK_PROFILES="$ROOT/controllerkeys/profiles"
